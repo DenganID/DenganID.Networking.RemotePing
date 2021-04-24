@@ -1,7 +1,7 @@
 ﻿This package is licensed under the MIT License.
 
 ```
-Copyright (c) 2016: Abdul Gaffur A Dama and other contributors:
+Copyright (c) 2021: Abdul Gaffur A Dama and other contributors:
 
 https://github.com/DenganID/DenganID.Networking.RemotePing/contributors
 
