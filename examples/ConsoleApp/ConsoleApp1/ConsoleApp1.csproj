@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DenganID.Networking.RemotePing" Version="1.0.1" />
+    <ProjectReference Include="..\..\..\src\DenganID.Networking.RemotePing\DenganID.Networking.RemotePing.csproj" />
   </ItemGroup>
-
 </Project>
