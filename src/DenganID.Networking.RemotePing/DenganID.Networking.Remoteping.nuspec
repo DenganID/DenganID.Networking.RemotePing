@@ -12,5 +12,6 @@
         <copyright>Copyright 2021 PT Dengan Ide Cipta Solusi</copyright>
         <tags>ping networking</tags>
         <summary>Shortcut to Ping</summary>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
     </metadata>
 </package>
