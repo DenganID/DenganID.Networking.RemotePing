@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+    <metadata>
+        <id>DenganID.Networking.RemotePing</id>
+        <title>DenganID.Networking.RemotePing</title>
+        <version>1.0.1</version>
+        <authors>DenganID</authors>
+        <repository>https://github.com/DenganID/DenganID.Networking.RemotePing</repository>
+        <description>Terbilang is for converting numeric into words in Bahasa Indonesia.</description>
+        <iconUrl>https://raw.githubusercontent.com/DenganID/DenganID.Networking.RemotePing/master/src/DenganID.Networking.RemotePing/assets/icon.png</iconUrl>
+        <licenseUrl>https://raw.githubusercontent.com/DenganID/DenganID.Networking.RemotePing/master/LICENSE.md</licenseUrl>
+        <copyright>Copyright 2021 PT Dengan Ide Cipta Solusi</copyright>
+        <tags>ping networking</tags>
+        <summary>Shortcut to Ping</summary>
+    </metadata>
+</package>

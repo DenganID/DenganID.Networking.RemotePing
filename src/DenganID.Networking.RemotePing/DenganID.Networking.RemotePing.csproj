@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>DenganID</Authors>
+    <Company>PT Dengan Ide Cipta Solusi</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageIconUrl>
+      https://raw.githubusercontent.com/DenganID/DenganID.Networking.RemotePing/master/src/DenganID.Networking.RemotePing/assets/icon.png
+    </PackageIconUrl>
+    <RepositoryUrl>https://github.com/DenganID/DenganID.Networking.RemotePing</RepositoryUrl>
+    <AssemblyVersion>1.0.1.1</AssemblyVersion>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <FileVersion>1.0.1.1</FileVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="assets\icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
